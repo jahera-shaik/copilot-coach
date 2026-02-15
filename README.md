@@ -17,7 +17,7 @@ This project was created for the **GitHub Copilot CLI Challenge**, demonstrating
 - ✅ **Create usable, polished tool** - Production-ready CLI with 6 dynamic features and rich terminal UI
 - ✅ **Demonstrate originality** - Meta concept + git-based personalization unique in the challenge space
 
-**📹 Live Demo:** [Watch the 60-second demo →](https://drive.google.com/file/d/10YaKlRi60TeXVyeT_JsCRJl0mJwJELeh/view?usp=sharing)
+**📹 Live Demo:** [Watch the 60-second demo →](https://drive.google.com/file/d/1qFKFxj1SIpQqMqv6HSHeMFhqm5yoK4dC/view?usp=sharing)
 
 **📊 Project Stats:** 650+ lines of Python | Built in 6 hours with Copilot CLI | 6 interactive features | Git-powered personalization
 
