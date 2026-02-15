@@ -17,7 +17,7 @@ This project was created for the **GitHub Copilot CLI Challenge**, demonstrating
 ✅ **Create usable, polished tool** - Production-ready CLI with dynamic features  
 ✅ **Demonstrate originality** - Meta concept + git-based personalization  
 
-**📹 Live Demo:** [Watch the demo video](#) *(Add your asciinema link here)*
+**📹 Live Demo:** [Watch the demo video] *(https://drive.google.com/file/d/10YaKlRi60TeXVyeT_JsCRJl0mJwJELeh/view?usp=sharing)*
 
 ---
 
