@@ -17,7 +17,7 @@ This project was created for the **GitHub Copilot CLI Challenge**, demonstrating
 - ✅ **Create usable, polished tool** - Production-ready CLI with 6 dynamic features and rich terminal UI
 - ✅ **Demonstrate originality** - Meta concept + git-based personalization unique in the challenge space
 
-**📹 Live Demo:** [Watch the 60-second demo →](https://drive.google.com/file/d/1qFKFxj1SIpQqMqv6HSHeMFhqm5yoK4dC/view?usp=sharing)
+**📹 Live Demo:** [Watch the 60-second demo →](https://drive.google.com/file/d/10YaKlRi60TeXVyeT_JsCRJl0mJwJELeh/view?usp=sharing)
 
 **📊 Project Stats:** 650+ lines of Python | Built in 6 hours with Copilot CLI | 6 interactive features | Git-powered personalization
 
@@ -58,6 +58,7 @@ python coach.py
 ## ✨ Features
 
 ### 1️⃣ Interactive Lesson (Prompt Basics)
+
 Learn the difference between bad and good prompts through visual comparison:
 
 **❌ Bad Prompt:** `'make function'`  
@@ -123,6 +124,10 @@ Your Coding Profile:
    Prompt: "Review this Python code for potential bugs: [paste code]"
    Why: Catch issues before they become bugs
 
+3. Add Error Handling
+   Prompt: "Add comprehensive error handling to this Python function: [paste code]"
+   Why: Make your code more robust
+
 ✓ Personalized workflows saved to MY_COPILOT_WORKFLOWS.md
 ```
 
@@ -157,7 +162,7 @@ Learn by doing, not just reading.
 
 ---
 
-## 🎬 Demo
+## 🎬 Demo Screenshots
 
 ### Welcome Screen
 ![Animated welcome with title reveal](screenshots/01_welcome_screen.png)
